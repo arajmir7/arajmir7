@@ -1,10 +1,10 @@
-<img src="assets/hero.png" alt="Md Ajmir Aribam, software engineer focused on backend systems, full-stack products, and document intelligence." width="100%" />
+<img src="assets/hero.png" alt="Md Ajmir Aribam, software engineer working across product interfaces and backend systems." width="100%" />
 
 <h1 align="center">Md Ajmir Aribam</h1>
 
 <p align="center">
-  <strong>Software Engineer · Backend Systems · Full-Stack Products</strong><br />
-  Imphal, India · MCA, Sharda University (2025–2027)
+  <strong>Software Engineer · Full-Stack &amp; Backend Systems</strong><br />
+  Imphal, India · MCA student at Sharda University
 </p>
 
 <p align="center">
@@ -14,53 +14,47 @@
   <a href="mailto:arajmir7@gmail.com">Email</a>
 </p>
 
-## Profile at a glance
-
-<table>
-  <tr>
-    <td align="center"><strong>03</strong><br />Live websites</td>
-    <td align="center"><strong>01</strong><br />Hosted prototype</td>
-    <td align="center"><strong>02</strong><br />Public engineering systems</td>
-  </tr>
-</table>
-
 ## About
 
-I build dependable software across backend services, web interfaces, and data. I focus on explicit business rules, traceable records, and changes that can be verified. Earlier work in banking and digital public services shaped my attention to accurate records and accountable outcomes.
+I’m a software engineer based in Imphal and an MCA student at Sharda University. I build products from the interface through to the APIs, data, and delivery behind them. Before focusing on software, I worked with banking transactions and public digital-service workflows. That experience still shapes how I work: clear status, accurate records, and useful explanations when something goes wrong.
+
+## How I work
+
+On each project, I start with what a person needs to do. I make the rules explicit, enforce them in the API, and check both the normal path and likely failure cases. I want the next engineer to be able to see why a change was made and what it affected.
 
 ## Selected work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://invoice.web-com.live/"><img src="assets/projects/azaeron-public-desktop.webp" alt="Azaeron billing workspace and secure sign-in page" width="100%" /></a>
-      <h3>01 / Azaeron</h3>
-      <p><strong>Live billing product · Full-stack engineering</strong></p>
-      <p>Invoice, quotation, inventory, and customer workflows with API-enforced permissions, lifecycle rules, and audit records. Source is private; the case study describes scope and verification limits.</p>
-      <p><a href="https://invoice.web-com.live/">Visit site ↗</a> · <a href="https://ajmiraribam.me/work/azaeron">Case study</a></p>
+      <a href="https://invoice.web-com.live/"><img src="assets/projects/azaeron-public-desktop.webp" alt="Azaeron billing workspace and sign-in page" width="100%" /></a>
+      <h3>Azaeron</h3>
+      <p><strong>Live · Full-stack engineering</strong></p>
+      <p>Azaeron brings quotations, invoices, payments, inventory, and customer records into one workspace. I worked on the product and backend rules: its API checks an allowed invoice transition before saving it, then records the change. The application is live; its source is private.</p>
+      <p><a href="https://invoice.web-com.live/">Visit the site ↗</a> · <a href="https://ajmiraribam.me/work/azaeron">Read the case study</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://shapesindia.org/"><img src="assets/projects/shapes-india-public-desktop.webp" alt="SHAPES India institutional website" width="100%" /></a>
-      <h3>02 / SHAPES India</h3>
-      <p><strong>Live institutional platform · Application and publishing engineering</strong></p>
-      <p>A public platform connecting six centres, their programmes, and shared resources.</p>
-      <p><a href="https://shapesindia.org/">Visit site ↗</a> · <a href="https://ajmiraribam.me/work/shapes-india">Case study</a></p>
+      <h3>SHAPES India</h3>
+      <p><strong>Live · Application and publishing engineering</strong></p>
+      <p>SHAPES India is a public platform for six centres, their programmes, and shared resources. I worked on the application and publishing system that brings their information together.</p>
+      <p><a href="https://shapesindia.org/">Visit the site ↗</a> · <a href="https://ajmiraribam.me/work/shapes-india">Read the case study</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://friendsaluminiumworks.com/"><img src="assets/projects/friends-aluminium-works-public-desktop.webp" alt="Friends Aluminium Works commercial website" width="100%" /></a>
-      <h3>03 / Friends Aluminium Works</h3>
-      <p><strong>Live commercial website · Frontend delivery</strong></p>
-      <p>A product and project site for an aluminium fabrication business, designed to guide visitors from its work to an enquiry.</p>
-      <p><a href="https://friendsaluminiumworks.com/">Visit site ↗</a> · <a href="https://ajmiraribam.me/work/friends-aluminium-works">Case study</a></p>
+      <h3>Friends Aluminium Works</h3>
+      <p><strong>Live · Frontend delivery</strong></p>
+      <p>The site presents an aluminium fabrication business’s products, projects, and services, with a clear route for prospective customers to enquire. I handled the frontend delivery.</p>
+      <p><a href="https://friendsaluminiumworks.com/">Visit the site ↗</a> · <a href="https://ajmiraribam.me/work/friends-aluminium-works">Read the case study</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://storied-bombolone-5d4a8f.netlify.app/"><img src="assets/projects/zam-zam-academy-public-desktop.webp" alt="Zam Zam Academy hosted website prototype" width="100%" /></a>
-      <h3>04 / Zam Zam Academy</h3>
+      <h3>Zam Zam Academy</h3>
       <p><strong>Hosted prototype · Web delivery</strong></p>
-      <p>A multi-page education website study covering academics, admissions, faculty, student life, notices, and contact journeys.</p>
-      <p><a href="https://storied-bombolone-5d4a8f.netlify.app/">Open preview ↗</a> · <a href="https://ajmiraribam.me/work/zam-zam-academy">Case study</a></p>
+      <p>I built a multi-page website prototype for Zam Zam Academy, with sections for academics, admissions, faculty, student life, notices, and contact.</p>
+      <p><a href="https://storied-bombolone-5d4a8f.netlify.app/">Open the prototype ↗</a> · <a href="https://ajmiraribam.me/work/zam-zam-academy">Read the case study</a></p>
     </td>
   </tr>
 </table>
@@ -71,22 +65,22 @@ I build dependable software across backend services, web interfaces, and data. I
   <tr>
     <td width="50%" valign="top">
       <h3>Azaeron Verity</h3>
-      <p><strong>Document intelligence · In development · Not production ready</strong></p>
-      <p>A review workspace that keeps document findings attached to their source and version. It combines tenant-scoped retrieval, asynchronous analysis, and human review. Production model approval and detector calibration remain open.</p>
-      <p><a href="https://github.com/arajmir7/Azaeron-Verity">Repository</a> · <a href="https://github.com/arajmir7/Azaeron-Verity/blob/main/ARCHITECTURE.md">Architecture</a> · <a href="https://ajmiraribam.me/work/azaeron-verity">Case study</a></p>
+      <p><strong>Document review · In development · Not production-ready</strong></p>
+      <p>Findings stay tied to the document version and recorded sources behind them. Reviewers decide whether to accept proposed edits; similarity and authorship signals are shown with their limits. The project is still in development.</p>
+      <p><a href="https://github.com/arajmir7/Azaeron-Verity">Repository</a> · <a href="https://github.com/arajmir7/Azaeron-Verity/blob/main/ARCHITECTURE.md">Architecture</a> · <a href="https://ajmiraribam.me/work/azaeron-verity">Read the case study</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>SCMIRN</h3>
-      <p><strong>Civic-service routing · Prototype · Not production ready</strong></p>
-      <p>A prototype for finding relevant civic-service routes, with consent checks, versioned rules, and source-verified handoffs. It does not file requests with government agencies.</p>
+      <p><strong>Civic-service routing · Prototype · Not production-ready</strong></p>
+      <p>SCMIRN is a prototype for helping people find relevant public services and reach source-checked official information. It does not submit requests to agencies or act as a government service.</p>
       <p><a href="https://github.com/arajmir7/SCMIRN">Repository</a> · <a href="https://github.com/arajmir7/SCMIRN/tree/main/src/backend/app/source_routing">Routing implementation</a></p>
     </td>
   </tr>
 </table>
 
-## Engineering toolset
+## Technologies
 
-### Languages
+### Languages and web foundations
 
 <p>
   <img src="assets/tech/python.svg" alt="Python" width="42" height="42" />&nbsp;
@@ -114,7 +108,7 @@ I build dependable software across backend services, web interfaces, and data. I
 
 **React · Next.js · FastAPI · Flask · Node.js · Express · Vite**
 
-### Data and jobs
+### Data and background jobs
 
 <p>
   <img src="assets/tech/postgresql.svg" alt="PostgreSQL" width="42" height="42" />&nbsp;
@@ -136,15 +130,15 @@ I build dependable software across backend services, web interfaces, and data. I
 
 **pytest · Playwright · Vitest · Ruff · axe-core · Git · GitHub Actions · Docker · Vercel**
 
-## Current technical focus
+## What I’m exploring
 
-I’m exploring document retrieval, model evaluation, and uncertainty in AI-assisted review. In Verity, these ideas are visible in the [retrieval pipeline](https://github.com/arajmir7/Azaeron-Verity/blob/main/backend/app/modules/similarity/service.py) and [calibration layer](https://github.com/arajmir7/Azaeron-Verity/blob/main/backend/app/modules/detection/intelligence/calibration.py). These remain experiments separate from the production runtime.
+I’m exploring how document review can show the evidence behind a finding without presenting an AI-generated signal as a verdict. In Azaeron Verity, that means keeping each result connected to its source and version, making uncertainty visible, and leaving the decision with the reviewer. This work remains experimental; see the [retrieval pipeline](https://github.com/arajmir7/Azaeron-Verity/blob/main/backend/app/modules/similarity/service.py) and [calibration layer](https://github.com/arajmir7/Azaeron-Verity/blob/main/backend/app/modules/detection/intelligence/calibration.py).
 
 ---
 
 <p align="center">
-  <a href="https://ajmiraribam.me/work">More work</a> ·
-  <a href="https://ajmiraribam.me/engineering">Engineering approach</a> ·
+  <a href="https://ajmiraribam.me/work">More of my work</a> ·
+  <a href="https://ajmiraribam.me/engineering">How I approach engineering</a> ·
   <a href="https://github.com/arajmir7/ajmir-aribam-portfolio">Portfolio source</a> ·
   <a href="mailto:arajmir7@gmail.com">Get in touch</a>
 </p>
