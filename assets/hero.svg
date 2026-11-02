@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
   <title id="title">Md Ajmir Aribam — Software Engineer</title>
-  <desc id="desc">A professional profile banner with Ajmir's portrait and a focus on backend systems, full-stack products, and document intelligence.</desc>
+  <desc id="desc">Ajmir Aribam, software engineer building software that has to work beyond the screen, from product interfaces to backend systems.</desc>
   <defs>
     <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#173B31"/><stop offset="1" stop-color="#102B26"/></linearGradient>
     <clipPath id="portrait"><rect x="916" y="24" width="254" height="262" rx="14"/></clipPath>
@@ -11,8 +11,8 @@
   <rect x="70" y="54" width="52" height="4" rx="2" fill="#34735C"/>
   <text x="70" y="91" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="2.8" fill="#34735C">SOFTWARE ENGINEER</text>
   <text x="68" y="163" font-family="Arial,Helvetica,sans-serif" font-size="59" font-weight="700" letter-spacing="-1.8" fill="#192824">Md Ajmir Aribam</text>
-  <text x="71" y="207" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="500" fill="#43534B">Backend systems · Full-stack products</text>
-  <text x="71" y="239" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="500" fill="#43534B">Document intelligence · Applied AI</text>
+  <text x="71" y="207" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="500" fill="#43534B">I build software that has to work beyond the screen.</text>
+  <text x="71" y="239" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="500" fill="#43534B">Product interfaces · Backend systems · Delivery</text>
   <path d="M70 272H804" stroke="#D5DAD3" stroke-width="1"/>
   <image x="916" y="24" width="254" height="262" preserveAspectRatio="xMidYMid slice" clip-path="url(#portrait)" href="hero-portrait.jpg" xlink:href="hero-portrait.jpg"/>
   <rect x="916.75" y="24.75" width="252.5" height="260.5" rx="13.25" fill="none" stroke="#E8E9DF" stroke-opacity=".78" stroke-width="1.5"/>
