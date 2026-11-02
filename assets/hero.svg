@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="344" viewBox="0 0 1280 344" role="img" aria-labelledby="title desc">
+  <title id="title">Systems, not just screens</title>
+  <desc id="desc">A minimal editorial banner for Ajmir Aribam. Crisp architectural geometry shows interconnected interface, logic, data, and verification elements on a charcoal canvas.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0C1013"/><stop offset="1" stop-color="#151B1C"/></linearGradient>
+    <linearGradient id="accent" x1="0" x2="1" y1="0" y2="0"><stop stop-color="#DCEFA2"/><stop offset="1" stop-color="#83BBB9"/></linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#394646" opacity=".5"/></pattern>
+    <clipPath id="clip"><rect width="1280" height="344" rx="17"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1280" height="344" fill="url(#bg)"/>
+    <rect width="1280" height="344" fill="url(#dots)" opacity=".55"/>
+    <path d="M0 1H1280M0 343H1280" stroke="#405051" stroke-opacity=".6"/>
+    <path d="M810 0V344" stroke="#364344" stroke-opacity=".65"/>
+    <path d="M45 48H1240" stroke="#364344" stroke-opacity=".7"/>
+    <rect x="49" y="16" width="33" height="19" rx="3" fill="#DAEAA5"/>
+    <text x="65.5" y="30" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="800" fill="#0D1312">AA</text>
+    <text x="97" y="29" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing="2.4" fill="#CBD4CF">AJMIR ARIBAM  /  SOFTWARE ENGINEERING</text>
+    <text x="1229" y="29" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2" fill="#9AABA6">FIELD NOTES · 001</text>
+    <text x="49" y="148" font-family="Arial,Helvetica,sans-serif" font-size="72" font-weight="800" letter-spacing="-3" fill="#F1F4EC">SYSTEMS,</text>
+    <text x="49" y="234" font-family="Arial,Helvetica,sans-serif" font-size="72" font-weight="800" letter-spacing="-3" fill="#F1F4EC">NOT JUST <tspan fill="#DCEFA2">SCREENS.</tspan></text>
+    <rect x="49" y="262" width="130" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="49" y="297" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="500" letter-spacing="1.35" fill="#B8C5BD">PRODUCT THINKING   /   BACKEND RULES   /   VERIFIABLE DELIVERY</text>
+    <g transform="translate(846 75)">
+      <circle cx="192" cy="104" r="116" fill="none" stroke="#3E5150" stroke-width="1"/>
+      <circle cx="192" cy="104" r="80" fill="none" stroke="#455856" stroke-width="1" stroke-dasharray="4 6"/>
+      <circle cx="192" cy="104" r="38" fill="#16211F" stroke="#84B9AD" stroke-width="1.5"/>
+      <path d="M65 104H154M230 104H321M192 -12V66M192 142V221" stroke="#759C90" stroke-width="1.5"/>
+      <path d="M100 21L166 80M284 21L220 80M100 187L165 128M284 187L221 128" stroke="#47615D" stroke-width="1.2"/>
+      <rect x="5" y="87" width="90" height="34" rx="4" fill="#1B2928" stroke="#647B73"/>
+      <text x="50" y="108" font-family="Arial,Helvetica,sans-serif" font-size="12" text-anchor="middle" font-weight="700" fill="#CFDCD5">UI</text>
+      <rect x="289" y="87" width="94" height="34" rx="4" fill="#1B2928" stroke="#647B73"/>
+      <text x="336" y="108" font-family="Arial,Helvetica,sans-serif" font-size="12" text-anchor="middle" font-weight="700" fill="#CFDCD5">DATA</text>
+      <text x="192" y="100" font-family="Arial,Helvetica,sans-serif" font-size="11" text-anchor="middle" font-weight="700" fill="#DCEFA2">API</text>
+      <text x="192" y="114" font-family="Arial,Helvetica,sans-serif" font-size="10" text-anchor="middle" fill="#B5C9BF">RULES</text>
+      <circle cx="192" cy="-12" r="7" fill="#DCEFA2"/>
+      <circle cx="192" cy="221" r="7" fill="#8EBCB1"/>
+      <circle cx="100" cy="21" r="4" fill="#78A79D"/>
+      <circle cx="284" cy="187" r="4" fill="#78A79D"/>
+      <text x="200" y="-23" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="1.6" fill="#A5BAB0">INTENT</text>
+      <text x="200" y="246" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="1.6" fill="#A5BAB0">VERIFICATION</text>
+    </g>
+  </g>
+</svg>
